@@ -61,7 +61,8 @@ UI interface:
 
 Project directory:
 -
-<img width="446" height="885" alt="image" src="https://github.com/user-attachments/assets/5dade9da-5137-4126-b823-15e3d34373e8" />
+<img width="467" height="356" alt="image" src="https://github.com/user-attachments/assets/ab343153-b7b4-4cfa-980d-8fb0135df80a" />
+
 
 
 
