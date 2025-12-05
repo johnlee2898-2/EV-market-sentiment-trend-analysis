@@ -45,4 +45,12 @@ How to run:
 execute main.py
    -- python3.10 main.py
 
+
+UI interface:
+-
+<img width="1544" height="477" alt="image" src="https://github.com/user-attachments/assets/af123077-6420-48e9-a7a6-df0ee3969feb" />
+
+
+
 Implementation:
+-
