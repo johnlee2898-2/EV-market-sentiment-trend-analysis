@@ -39,6 +39,9 @@ Setup enviroment:
    -- pip install praw;
 
 
+Project directory:
+-
+<img width="467" height="356" alt="image" src="https://github.com/user-attachments/assets/ab343153-b7b4-4cfa-980d-8fb0135df80a" />
    
 
 How to run:
@@ -58,10 +61,6 @@ UI interface:
 
 <img width="1544" height="477" alt="image" src="https://github.com/user-attachments/assets/af123077-6420-48e9-a7a6-df0ee3969feb" />
 
-
-Project directory:
--
-<img width="467" height="356" alt="image" src="https://github.com/user-attachments/assets/ab343153-b7b4-4cfa-980d-8fb0135df80a" />
 
 
 
