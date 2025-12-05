@@ -9,6 +9,7 @@ This project will build a tool to get the electric vehicle market sentiment tren
 
 
 <br>
+
 Data sources:
 -
 1. News article platforms:
@@ -20,7 +21,8 @@ Data sources:
    Reddit
 
 
-<br> 
+<br>
+
 Setup enviroment:
 -
 1. Create a virtual environment
@@ -42,12 +44,14 @@ Setup enviroment:
 
   
 <br>
+
 Project directory:
 -
 <img width="467" height="356" alt="image" src="https://github.com/user-attachments/assets/ab343153-b7b4-4cfa-980d-8fb0135df80a" />
    
 
-<br> 
+<br>
+
 How to run:
 -
 First, please change the project base directory in main.py to your real location on your computer:
@@ -65,7 +69,8 @@ Operation sequence:
 
 Execute the python file:  $ python3.10 main.py >>> On UI interface, input queries  >>> click "Search" button  >>> Once search results displayed, click "Draw Sentiment Trend" button, wait some time until sentiment trend displayed.
 
-<br> 
+<br>
+
 How to re-generate data?
 -
 Delete file "project directory/data/scrapedEvNews/scrapedEvNews.dat"
@@ -88,6 +93,7 @@ UI interface:
  
 
 <br>
+
 <img width="1544" height="477" alt="image" src="https://github.com/user-attachments/assets/af123077-6420-48e9-a7a6-df0ee3969feb" />
 
 
@@ -96,7 +102,8 @@ UI interface:
 
 
 
-<br>    
+<br>
+
 Implementation:
 -
 Python, Html, Javascript
