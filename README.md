@@ -18,11 +18,11 @@ Setup enviroment:
    
 5. Install packages inside the venv
    
-   -- pip install --upgrade pip
-   -- pip install pyserini
-   -- pip install seaborn
-   -- pip install beautifulsoup4
-   -- pip install praw
+   -- pip install --upgrade pip;
+   -- pip install pyserini;
+   -- pip install seaborn;
+   -- pip install beautifulsoup4;
+   -- pip install praw;
 
 
    
