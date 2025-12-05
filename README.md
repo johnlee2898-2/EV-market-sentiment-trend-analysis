@@ -59,6 +59,12 @@ UI interface:
 <img width="1544" height="477" alt="image" src="https://github.com/user-attachments/assets/af123077-6420-48e9-a7a6-df0ee3969feb" />
 
 
+Project directory:
+-
+<img width="446" height="885" alt="image" src="https://github.com/user-attachments/assets/5dade9da-5137-4126-b823-15e3d34373e8" />
+
+
+
 
 Implementation:
 -
