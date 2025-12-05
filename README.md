@@ -43,7 +43,7 @@ Setup enviroment:
 How to run:
 -
 execute main.py
-   -- python3.10 main.py
+   -- python3.10 main.py, a window will prompt, including query input field, sentiment trend diagam displaying area, search and sentiment analysis buttons, search results display area. First please input any EV related queries like "EV", "Electric vehicle tesla", "Electric vehicle range", "EV battery life" etc.
 
 
 UI interface:
