@@ -42,6 +42,7 @@ Setup enviroment:
    -- pip install lxml
    -- pip install praw;
    -- pip install requests
+   -- pip install torch torchvision torchaudio
 
   
 <br>
