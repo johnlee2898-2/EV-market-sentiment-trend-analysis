@@ -142,6 +142,7 @@ $ python3.10 main.py
 
 
 <br><br>
+---
 UI interface:
 -
 <img width="1669" height="228" alt="image" src="https://github.com/user-attachments/assets/dcceca1c-8f7f-468a-a437-5c236f493b78" />
