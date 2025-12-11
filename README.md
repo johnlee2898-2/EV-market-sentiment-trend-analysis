@@ -126,6 +126,7 @@ $ python3.10 main.py
 How to re-generate data?
 -
 - Delete file "project directory/data/scrapedEvNews/scrapedEvNews.dat"
+
   (Note: only delete the file scrapedEvNews.dat, but keep the direcotry: "project directory/data/scrapedEvNews/")
 
 - Delete directory:    "project directory/processed_corpus/scrapedEvNews", after deletion, it will look like "./processed_corpus"
