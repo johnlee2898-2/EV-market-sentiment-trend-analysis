@@ -56,13 +56,14 @@ Setup environment:
    -- pip install requests
    -- pip install torch torchvision torchaudio
 
-  
+
+---
 <br>
 
 Project directory:
 -
 
----
+
 
 ## Project Structure
 
