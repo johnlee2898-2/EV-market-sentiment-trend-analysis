@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Groq-LLM-orange">
   <img src="https://img.shields.io/badge/RAG-System-green">
-  <img src="https://img.shields.io/badge/FAISS-Indexing-blue">
+  <img src="https://img.shields.io/badge/BM25-Indexing-blue">
 </p>
 
 ---
 
 <br>
 
-Project Description:
+Project overview:
 -
 This project will build a tool to get the electric vehicle market sentiment trend analysis based on real-time data from some well-known internet news article platforms. Sentiment analysis for the EV market involves using data—often text—to measure how people feel and what they think about electric vehicles, including related brands, policies, technologies, and market trends, in order to understand overall perception and future demand. Within this tool, user can input queries to generate ranked search results, a built-in AI model will classify sentiment for each search result as positive, negative, or neutral, based on accumulated sentiment data, the tool will produce a sentiment trend diagram covering the most recent five years, allowing users to observe how public perception has shifted over time. 
 
