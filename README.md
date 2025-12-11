@@ -60,7 +60,7 @@ Setup environment:
 
 <br>
 
----
+
 ## Project Structure
 
 ```text
@@ -76,7 +76,7 @@ Electric-vehicle-market-sentiment-trend-analysis/
 ├── processed_corpus
 │   └── scrapedEvNews            # Processed corpus
 │
-├── storage/                     # Local storage to save labels which will be used to distinquish different data sources
+├── storage/                     # Local storage to save labels to distinquish different data sources
 │   ├── first_corpus_counter.pkl
 │   ├── second_corpus_counter.pkl
 │   └── third_corpus_counter.pkl
