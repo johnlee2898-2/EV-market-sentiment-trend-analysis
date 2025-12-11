@@ -11,8 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Groq-LLM-orange">
-  <img src="https://img.shields.io/badge/RAG-System-green">
+  <img src="https://img.shields.io/badge/LLM-SentimentBERT-orange">
   <img src="https://img.shields.io/badge/BM25-Indexing-blue">
 </p>
 
