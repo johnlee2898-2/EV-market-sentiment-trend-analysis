@@ -132,12 +132,13 @@ Re-execute main.py   -- python3.10 main.py
 <br><br>
 UI interface:
 -
-<img width="1852" height="1160" alt="image" src="https://github.com/user-attachments/assets/089a4000-6e47-4743-86f7-2c9618093074" />
+<img width="1669" height="228" alt="image" src="https://github.com/user-attachments/assets/dcceca1c-8f7f-468a-a437-5c236f493b78" />
+<img width="1544" height="477" alt="image" src="https://github.com/user-attachments/assets/af123077-6420-48e9-a7a6-df0ee3969feb" />
+<img width="1671" height="383" alt="image" src="https://github.com/user-attachments/assets/7d8b64fa-2c5f-4f8c-a878-9b245115246f" />
  
-
 <br>
 
-<img width="1544" height="477" alt="image" src="https://github.com/user-attachments/assets/af123077-6420-48e9-a7a6-df0ee3969feb" />
+
 
 
 
