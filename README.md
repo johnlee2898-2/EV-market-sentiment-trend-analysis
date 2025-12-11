@@ -97,30 +97,28 @@ Electric-vehicle-market-sentiment-trend-analysis/
 
 How to run:
 -
-## 1. Pull project repository to your local computer
+### 1. Pull project repository to your local computer
 ```text
 $ git clone git@github.com:johnlee2898-2/Electric-vehicle-market-sentiment-trend-analysis.git
 $ cd Electric-vehicle-market-sentiment-trend-analysis
 ```
 
-## 2. Change the project base directory to your real location on your computer:
+### 2. Change the project base directory to your real location on your computer:
 in main.py:
 ```text
 PROJECT_BASE_DIR = "/home/XXX/UIUC-CS410/Course_project/CS410-Course-Project-submit-version"    # change this to your real location 
 ```
 
-## 3. Execute main.py
+### 3. Execute main.py
 ```text
 $ python3.10 main.py
 ```
 
-<img width="1250" height="91" alt="image" src="https://github.com/user-attachments/assets/eb068535-4a9b-4b5d-b7dd-d5a1467a8030" />
+### 4. After about 5 minutes data scraping, a window will prompt, first input queries, e.g., you can input "EV", "EV Electric vehicle", "Electric vehicle tesla", "Electric vehicle range", "EV battery life" etc. Then click "Search" button.
 
-After about 5 minutes data scraping, a window will prompt, the UI interface inludes query input field, sentiment trend diagam displaying area, "Search" and "Draw Sentiment Trend" buttons, search results display area. First please input any EV related queries like "EV", "EV Electric vehicle", "Electric vehicle tesla", "Electric vehicle range", "EV battery life" etc. Once the search results are generated, it will display on the result displaying area, then please click the "Draw Sentiment Trend" button to generate the sentiment trend diagram.
+### 5. Once search results are generated, click "Draw Sentiment Trend" button, wait some time, a system built-in AI model will conduct sentiment label inference for each search result, once complete, a sentiment trend diagram will show up.
 
-Operation sequence:
 
-Execute the python file:  $ python3.10 main.py >>> On UI interface, input queries  >>> click "Search" button  >>> Once search results displayed, click "Draw Sentiment Trend" button, wait some time until sentiment trend displayed.
 
 <br>
 
