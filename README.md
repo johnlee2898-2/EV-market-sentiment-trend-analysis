@@ -129,7 +129,7 @@ How to re-generate data?
 
   (Note: only delete the file scrapedEvNews.dat, but keep the direcotry: "project directory/data/scrapedEvNews/")
 
-- Delete directory:    "project directory/processed_corpus/scrapedEvNews", after deletion, it will look like "./processed_corpus"
+- Delete directory:    "project directory/processed_corpus/scrapedEvNews", after deletion, it will look like "project directory/processed_corpus"
 
 - Delete directory:    "project directory/indexes/scrapedEvNews", after deletion, it will look like "project directory/indexes"
 
