@@ -72,16 +72,16 @@ $ pip install torch torchvision torchaudio
 Electric-vehicle-market-sentiment-trend-analysis/
 │
 ├── data/
-    └── scrapedEvNews            # Directory which save the scrapped converged data  
-        └── scrapedEvNews.dat    # File to save all raw data
+│    └── scrapedEvNews            # Directory which save the scrapped converged data  
+│        └── scrapedEvNews.dat    # File to save all raw data
 │── indexes
-        └── scrapedEvNews        # All generated indexes will be saved here
+│        └── scrapedEvNews        # All generated indexes will be saved here
 ├── instruction.md
-├── main.py                      # This is the python file contains all source code
+├── main.py                       # This is the python file contains all source code
 ├── processed_corpus
-│   └── scrapedEvNews            # Processed corpus
+│   └── scrapedEvNews             # Processed corpus
 │
-├── storage/                     # Local storage to save labels to distinquish different data sources
+├── storage/                      # Local storage to save labels to distinquish different data sources
 │   ├── first_corpus_counter.pkl
 │   ├── second_corpus_counter.pkl
 │   └── third_corpus_counter.pkl
@@ -121,20 +121,22 @@ $ python3.10 main.py
 
 
 <br>
----
+
 
 How to re-generate data?
 -
-Delete file "project directory/data/scrapedEvNews/scrapedEvNews.dat"
-(Note: only delete the file scrapedEvNews.dat, but keep the direcotry: "project directory/data/scrapedEvNews/")r
+- Delete file "project directory/data/scrapedEvNews/scrapedEvNews.dat"
+  (Note: only delete the file scrapedEvNews.dat, but keep the direcotry: "project directory/data/scrapedEvNews/")
 
-Delete directory:    "project directory/processed_corpus/scrapedEvNews", after deletion it will look like "./processed_corpus"
+- Delete directory:    "project directory/processed_corpus/scrapedEvNews", after deletion, it will look like "./processed_corpus"
 
-Delete directory:    "project directory/indexes/scrapedEvNews", after deletion it will look like "project directory/indexes"
+- Delete directory:    "project directory/indexes/scrapedEvNews", after deletion, it will look like "project directory/indexes"
 
-Re-execute main.py   -- python3.10 main.py
+- Re-execute main.py
+```text
+$ python3.10 main.py
+```
 
-<img width="1250" height="91" alt="image" src="https://github.com/user-attachments/assets/eb068535-4a9b-4b5d-b7dd-d5a1467a8030" />
 
 
 
