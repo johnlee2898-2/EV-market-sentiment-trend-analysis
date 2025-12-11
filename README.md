@@ -60,6 +60,7 @@ $ pip install lxml
 $ pip install praw;
 $ pip install requests
 $ pip install torch torchvision torchaudio
+$ sudo apt install python3-tk
 ```
 
 
@@ -162,15 +163,8 @@ UI interface:
 
 <br><br>
 
-Implementation:
--
-Python, Html, Javascript
 
-Numpy, Pandas, Pyserini
 
-BeautifulSoup,  Praw
-
-Tkinter, Matplotlib, Seaborn
 
 
 
