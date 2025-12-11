@@ -18,7 +18,7 @@ This project will build a tool to get the electric vehicle market sentiment tren
 - Use BM25 to do the text retrieval and ranking.
 - Sentiment trend diagram needs lots of data, use sentimentBert AI model to do the sentiment label inference.
 - Visualization: Use Matplotlib to show three trend metrics (Positive, Negative, Neutral) over time covering most recent six years (2020 -2025).
-- Find a way to accommodate date time information to generate trend diagram.
+- Accommodate date time information to generate trend diagram.
 <br>
 
 ## Data sources:
