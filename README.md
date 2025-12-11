@@ -122,7 +122,7 @@ $ python3.10 main.py
 
 <br>
 
-
+---
 How to re-generate data?
 -
 - Delete file "project directory/data/scrapedEvNews/scrapedEvNews.dat"
