@@ -49,6 +49,7 @@ $ source myenv/bin/activate
 $ pip install --upgrade pip
 $ pip install pyserini
 $ pip install seaborn
+$ pip install numpy
 $ pip install pandas
 $ pip install beautifulsoup4
 $ pip install lxml
