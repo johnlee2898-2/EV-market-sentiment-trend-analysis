@@ -60,7 +60,6 @@ $ pip install faiss-cpu
 $ sudo apt install python3-tk
 $ sudo apt install python3-pip
 $ pip3 install requests
-$ pip install torch --index-url https://download.pytorch.org/whl/cpu
 
 
 ```
